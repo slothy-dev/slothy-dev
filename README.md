@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slothy-dev
-- 👀 I’m interested in ... javascript, nodejs, react and python
-- 🌱 I’m currently learning ... javascript, nodejs
+- 👀 I’m interested in ... javascript
+- 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... dont
 
