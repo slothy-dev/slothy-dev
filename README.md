@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @slothy-dev
-- 👀 I’m interested in ... javascript
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in ... all things coding!
+- 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... dont
 
 <!---
 slothy-dev/slothy-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
